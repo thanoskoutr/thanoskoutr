@@ -1,7 +1,6 @@
 ### GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thanoskoutr&count_private=true&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanoskoutr&hide=html,css,haskell,standard%20ml,smarty,php,batchfile,assembly&langs_count=6&layout=compact&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanoskoutr&count_private=true&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanoskoutr&hide=html,css,haskell,standard%20ml,smarty,php,batchfile,assembly&langs_count=6&layout=compact&hide_border=true&theme=github_dark" alt="Most Used Languages" />
 
 ### Languages, Frameworks and Tools
 
