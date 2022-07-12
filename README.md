@@ -1,11 +1,11 @@
-### GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
     <a href="#"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=thanoskoutr&count_private=true&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats"/></a>
     <a href="#"><img align="center" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanoskoutr&hide=html,css,haskell,standard%20ml,smarty,php,batchfile,assembly&langs_count=6&layout=compact&hide_border=true&theme=github_dark" alt="Most Used Languages" /></a>
 </p>
 
-### Languages and Tools
+### ⚒️ Languages and Tools
 
 <img alt="Go" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"/>
 <img alt="Python" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
