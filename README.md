@@ -1,8 +1,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-    <a href="#"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=thanoskoutr&count_private=true&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats"/></a>
-    <a href="#"><img align="center" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanoskoutr&hide=html,css,haskell,standard%20ml,smarty,php,batchfile,assembly&langs_count=6&layout=compact&hide_border=true&theme=github_dark" alt="Most Used Languages" /></a>
+    <a href="#"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=thanoskoutr&count_private=true&show_icons=true&hide_border=true&theme=react" alt="GitHub stats"/></a>
+    <a href="#"><img align="center" width="335" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanoskoutr&hide=html,css,haskell,standard%20ml,smarty,php,batchfile,assembly&langs_count=6&layout=compact&hide_border=true&theme=react" alt="Most Used Languages" /></a>
 </p>
 
 ### ⚒️ Languages and Tools
