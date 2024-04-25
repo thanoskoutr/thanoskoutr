@@ -21,7 +21,7 @@
 <img alt="JavaScript" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img alt="TypeScript" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img alt="React" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="Gatsby" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg"/>
+<img alt="Gatsby" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg"/>
 <img alt="Hugo" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg"/>
 <!-- <img alt="Express" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img alt="Flask" align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
